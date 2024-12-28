@@ -1,5 +1,4 @@
 Tecchnical Task:
-
 - Create GitHub repository
 - Add docker file code to create image of following operation ( Read data from s3 and push it to RDS and if RDS not possible push it to Glue Database) and deploy this image to AWS ECR (Use python program and create docker image using that file )
 - Create lambda function using this image and test it.
@@ -18,6 +17,5 @@ I divided the task:
 4 Write Python code to interact with S3, RDS
 5 Push Docker Image to AWS ECR
 
-Screenshot:
-![task](https://github.com/user-attachments/assets/c9a31f1c-b9d2-433d-a60d-bd2c037f87c5)
+
                                                                
